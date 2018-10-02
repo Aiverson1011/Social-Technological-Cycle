@@ -1,7 +1,7 @@
 # Social-Technological-Cycle
 
-## The Social Technological Cycle
-### Social Media and Communication
+
+## Social Media and Communication
 #### By: Amanda Iverson
 
 ### Introduction
