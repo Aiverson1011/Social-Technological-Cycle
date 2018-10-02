@@ -161,6 +161,6 @@ ul li {
     border: 5px dotted #E85a4f;
     padding: 1em;
     background-color: #f2f2f2;
-    max-height: 80%;
+    height: 80%;
     text-align: center;
 }
